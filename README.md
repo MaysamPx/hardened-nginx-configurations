@@ -1,4 +1,4 @@
-# Hardened-nginx-configurations
+# Hardened-nginx-configurations-against-attacks
 Nginx Hardened Configurations - If you are dealing with the security concerns around some critical instances of Nginx, for instance in a critical-mission app's on-premise infrastructure, these kinds of configurations will make your instance more secure if you believed in CIS benchmarks.
 so these configured files have been hardened by following the CIS benchmarks.
 
